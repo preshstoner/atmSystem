@@ -59,7 +59,7 @@ Installation
 
 Clone the Repository:
 
-git clone [https://github.com/your-username/atm-system.git](https://github.com/preshstoner/atmSystem.git)
+git clone [(https://github.com/preshstoner/atmSystem.git)](https://github.com/preshstoner/atmSystem.git)
 cd atm-system
 
 
